@@ -62,7 +62,7 @@ NNN-121-YYYY-MM-DD.html
 
 **Formula:** Sunday(n) = `2026-11-08 + 7 × (n − 1)` days.
 
-**`lessons/index.html` is the course index** — every week 001–121 in one place, built weeks linked, future weeks plain. Add a week's link the moment its file exists; the index must never point at a page that does not exist. Dates, titles and lengths come from `ROADMAP.md`, so correct the roadmap and rebuild rather than hand-editing the table. It links `course.css` only — there is no quiz or practice component on it, so no `quiz.js`.
+**`lessons/index.html` is the course index** — every week 001–121 in one place, built weeks linked, future weeks plain. Regenerate it with `python tools/build-lesson-index.py`. That script reads `ROADMAP.md` and fails loudly if a week is missing or a date has drifted from the Sunday formula, so correct the roadmap and rebuild rather than hand-editing the table. It picks up each newly built week automatically, and it must never point at a page that does not exist. The page links `course.css` only — there is no quiz or practice component on it, so no `quiz.js`.
 
 ## 4. The lesson contract
 
