@@ -1,0 +1,5 @@
+# Starting point: Year 9, second-language speaker, self-studying for 0500
+
+As of November 2026 the learner is in Year 9 of the UK system, has not begun formal 0500 study, and is studying entirely outside a classroom with no teacher or tutor marking work. English is a second language, but the decision to take 0500 (first-language English) rather than 0510/0511 (English as a Second Language) is deliberate and should not be revisited unless the learner raises it.
+
+**Implications.** There is a 2.5-year runway and 4–6 hours a week, so the plan can build skill rather than chase marks. The binding constraint is not comprehension but *productive range and accuracy* — W3 (vocabulary and sentence variety) and W5 (spelling, punctuation, grammar) are where a second-language candidate most often stalls at grade B. Lessons should therefore front-load reading analysis (cheap to improve, 50% of the qualification) while running a long, low-intensity writing-accuracy habit in parallel. Feedback must come from AI marking against the real Cambridge mark schemes, since no human marker exists.

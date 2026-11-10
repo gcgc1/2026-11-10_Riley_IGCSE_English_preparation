@@ -1,0 +1,2 @@
+# Off-limits to the agent: never read, searched, or committed.
+.AI_ignore_material/
