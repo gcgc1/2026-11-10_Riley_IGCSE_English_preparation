@@ -1,3 +1,7 @@
+# Vocabulary building
+Instruction overview:
+reference/reading.html
+
 # Cambridge IGCSE First Language English (0500) — grade A by March 2029
 
 A self-study course for Cambridge IGCSE First Language English (0500), Papers 1 and 2, built one lesson per week. Target: **54/80 on each paper** (≈ grade A) in the **March 2029** series — 121 weeks from 2026-11-08, 97 lessons and 24 revision tests.
